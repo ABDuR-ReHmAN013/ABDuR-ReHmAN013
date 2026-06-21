@@ -1,10 +1,17 @@
 <div align="left">
 
- # Hi, I'm Abdur Rehman 👋
 
-I am  3rd Year Computer Science undergrad has expertise in Frontend Development,Learning Backend Development and passionate about  Computer Vision .
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+Developer;Learning+Node.js;Building+Modern+Web+Applications;Exploring+Computer+Vision;Always+Learning+New+Technologies" />
+# Hi, I'm Abdur Rehman 👋
+
+* 🎓 3rd Year Computer Science student at Bahria University
+* 💻 Frontend Developer currently learning Backend Development with Node.js
+* 👁️ Passionate about Computer Vision, problem solving, and building real-world applications
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+Developer;Learning+Node.js;Building+Modern+Web+Applications;Exploring+Computer+Vision;Always+Learning+New+Technologies" />
+
+</div>
+
 
 <br/>
 
