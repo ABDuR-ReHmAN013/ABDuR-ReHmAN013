@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
  # Hi, I'm Abdur Rehman 👋
 
-I am  3rd Year Computer Science undergrad has expertise in Frontend Development,Learning Backend Development and passionate about  Computer Vision Enthusiast.
+I am  3rd Year Computer Science undergrad has expertise in Frontend Development,Learning Backend Development and passionate about  Computer Vision .
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+Developer;Learning+Node.js;Building+Modern+Web+Applications;Exploring+Computer+Vision;Always+Learning+New+Technologies" />
 
@@ -70,13 +70,10 @@ I am  3rd Year Computer Science undergrad has expertise in Frontend Development,
 ---
 
 ## 🚀 Featured Projects
-
-| Project                          | Description                                                       |
-| -------------------------------- | ----------------------------------------------------------------- |
-| 🚌 **RouteMate**                 | Real-time bus tracking platform built with React, Node.js & MySQL |
-| 🚗 **Vehicle Damage Detection**  | Computer vision system for automated vehicle damage analysis      |
-| 📚 **Library Management System** | Book management system powered by data structures                 |
-| 📋 **Task Management System**    | OOP-based task scheduling and notification platform               |
+ 🚌 **RouteMate** : Real-time bus tracking platform built with React, Node.js & MySQL <br>
+ 🚗 **Vehicle Damage Detection**:Computer vision system for automated vehicle damage analysis      
+ 📚 **Library Management System**:Book management system powered by data structures                 
+ 📋 **Task Management System**:OOP-based task scheduling and notification platform               
 
 ---
 
