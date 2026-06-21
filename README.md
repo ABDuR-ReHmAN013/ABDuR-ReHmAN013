@@ -8,11 +8,11 @@ I am  3rd Year Computer Science undergrad has expertise in Frontend Development,
 
 <br/>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260"/>
 
 </div>
-
----
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzbGg1ODZjMXdoZXprbGZsNWdvM210MHZ3NGM3NmI2eWl2MHk5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+</div>
 
 ## 💻 Tech Stack
 
