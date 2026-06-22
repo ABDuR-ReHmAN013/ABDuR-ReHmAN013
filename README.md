@@ -6,7 +6,7 @@
 * 💻 Frontend Developer currently learning Backend Development with Node.js
 * 👁️ Passionate about Computer Vision, problem solving, and building real-world applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+Developer;Learning+Node.js;Building+Modern+Web+Applications;Exploring+Computer+Vision;Always+Learning+New+Technologies" />
+
 
 </div>
 
