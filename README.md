@@ -41,8 +41,6 @@
 
 
 
----
-
 ## 🚀 Featured Projects
 
 🚌 **RouteMate** : Real-time bus tracking platform built with React, Node.js & MySQL  
