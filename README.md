@@ -39,10 +39,7 @@
 
 ---
 
-## 🎯 Current Focus
 
-🌱 Backend Development with Node.js  
-👁️ Computer Vision & Image Processing  
 
 ---
 
